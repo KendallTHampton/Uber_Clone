@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Made a Uber Clone",
+    "githubUrl": "https://github.com/KendallTHampton"
   }
 }
